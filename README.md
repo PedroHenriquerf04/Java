@@ -2,7 +2,7 @@
 
 ## Sobre o Repositório
 
-Este repositório é dedicado a ajudar iniciantes a dar seus primeiros passos na programação com Java. Aqui, você encontrará uma série de exercícios práticos que cobrem os fundamentos da linguagem Java.
+Este repositório foi criado para acompanhar o curso de Java para iniciantes do **Curso em Vídeo**, ministrado pelo professor Gustavo Guanabara. Aqui, você encontrará exercícios práticos que complementam as aulas do curso e ajudam a solidificar os conceitos aprendidos.
 
 ## Estrutura do Repositório
 
@@ -16,3 +16,7 @@ Os exercícios estão organizados em diretórios que representam diferentes conc
 ## Contribuições
 
 Se você quiser contribuir com novos exercícios ou melhorias, por favor, faça um fork do repositório, faça suas alterações e envie um pull request.
+
+## Agradecimentos
+
+Um agradecimento especial ao professor Gustavo Guanabara e ao **Curso em Vídeo** por disponibilizar um conteúdo tão valioso para a comunidade de programadores.

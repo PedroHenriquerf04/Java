@@ -1,0 +1,16 @@
+## POO (Programação Orientada a Objetos)
+
+é um paradigma de programação que utiliza objetos para representar dados e métodos. 
+Este paradigma é baseado em quatro conceitos principais: encapsulamento, herança, polimorfismo e abstração.
+
+# Encapsulamento: Refere-se à prática de esconder os detalhes internos do funcionamento de um objeto e expor apenas as funcionalidades 
+  que são seguras e necessárias para o uso externo.
+
+# Herança: Permite que uma classe herde características (atributos e métodos) de outra classe, 
+  facilitando a reutilização de código e a criação de hierarquias de classes.
+
+# Polimorfismo: É a capacidade de um objeto ser referenciado de várias formas, geralmente através de uma interface comum, 
+  permitindo que diferentes objetos respondam de maneira diferente à mesma mensagem ou método.
+
+# Abstração: Envolve a criação de modelos simplificados que representam entidades complexas do mundo real, 
+  destacando as características essenciais e ignorando os detalhes irrelevantes

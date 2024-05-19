@@ -1,0 +1,8 @@
+## Descrição 
+
+Em Java, métodos são blocos de código que realizam tarefas específicas e são fundamentais na programação orientada a objetos. 
+Eles permitem encapsular funcionalidades e comportamentos dentro de classes, facilitando a reutilização de código e a manutenção do programa.
+
+## Método da Classe
+  Métodos static são invocados sem a necessidade de criar uma instância da classe. 
+  Eles são chamados diretamente pelo nome da classe:

@@ -13,10 +13,6 @@ Os exercícios estão organizados em diretórios que representam diferentes conc
 - `funcoes/`: Exercícios para entender como definir e invocar métodos.
 - `objetos/`: Introdução à programação orientada a objetos com Java.
 
-## Contribuições
-
-Se você quiser contribuir com novos exercícios ou melhorias, por favor, faça um fork do repositório, faça suas alterações e envie um pull request.
-
 ## Agradecimentos
 
 Um agradecimento especial ao professor Gustavo Guanabara e ao **Curso em Vídeo** por disponibilizar um conteúdo tão valioso para a comunidade de programadores.
